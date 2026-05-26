@@ -108,16 +108,16 @@ Location          Houston, Texas
 
 ---
 
-## GitHub Snapshot
+## Portfolio Snapshot
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=irum13&show_icons=true&theme=radical&hide_border=true&rank_icon=github" alt="Irum GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irum13&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=irum13&theme=radical&hide_border=true" alt="GitHub streak stats" />
-</p>
+<table>
+  <tr>
+    <td align="center"><strong>3</strong><br />Published portfolio projects</td>
+    <td align="center"><strong>580K+</strong><br />Houston 311 records analyzed</td>
+    <td align="center"><strong>3,755</strong><br />Salary records analyzed</td>
+    <td align="center"><strong>9,504</strong><br />Hourly weather records analyzed</td>
+  </tr>
+</table>
 
 ---
 
@@ -136,4 +136,3 @@ GenAI workflows     structured outputs, evaluation, workflow design
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:DB2777,45:C2410C,100:7C3AED" alt="Footer wave" />
 </p>
-
